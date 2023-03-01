@@ -1,0 +1,15 @@
+{
+  "name": "tdd-linked-list",
+  "version": "1.0.0",
+  "description": "TDD for singly linked list",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Andrei Serban",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
